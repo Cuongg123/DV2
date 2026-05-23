@@ -1,0 +1,916 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+AUS,2000-01-01,2000-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,62.583136,I,base year is 2015
+AUS,2001-01-01,2001-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,65.465676,I,base year is 2015
+AUS,2002-01-01,2002-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,69.789485,I,base year is 2015
+AUS,2003-01-01,2003-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,71.839291,I,base year is 2015
+AUS,2004-01-01,2004-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,74.241407,I,base year is 2015
+AUS,2005-01-01,2005-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,75.266310,I,base year is 2015
+AUS,2006-01-01,2006-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,78.180878,I,base year is 2015
+AUS,2007-01-01,2007-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,83.785816,I,base year is 2015
+AUS,2008-01-01,2008-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,86.027791,I,base year is 2015
+AUS,2009-01-01,2009-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,90.896080,I,base year is 2015
+AUS,2010-01-01,2010-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,92.273294,I,base year is 2015
+AUS,2011-01-01,2011-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,95.091777,I,base year is 2015
+AUS,2012-01-01,2012-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,95.892482,I,base year is 2015
+AUS,2013-01-01,2013-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,96.597103,I,base year is 2015
+AUS,2014-01-01,2014-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.006344,I,base year is 2015
+AUS,2015-01-01,2015-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.896009,I,base year is 2015
+AUS,2016-01-01,2016-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.152235,I,base year is 2015
+AUS,2017-01-01,2017-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,101.977843,I,base year is 2015
+AUS,2018-01-01,2018-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,102.009872,I,base year is 2015
+AUS,2019-01-01,2019-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,103.835480,I,base year is 2015
+AUS,2020-01-01,2020-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,106.750048,I,base year is 2015
+AUS,2021-01-01,2021-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,108.607684,I,base year is 2015
+AUS,2022-01-01,2022-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,111.522252,I,base year is 2015
+AUS,2023-01-01,2023-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,121.322886,I,base year is 2015
+AUS,2024-01-01,2024-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,126.447401,I,base year is 2015
+AUS,2025-01-01,2025-01-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,130.322816,I,base year is 2015
+AUS,2000-02-01,2000-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,62.615164,I,base year is 2015
+AUS,2001-02-01,2001-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,66.170297,I,base year is 2015
+AUS,2002-02-01,2002-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,69.917598,I,base year is 2015
+AUS,2003-02-01,2003-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,72.287686,I,base year is 2015
+AUS,2004-02-01,2004-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,74.689802,I,base year is 2015
+AUS,2005-02-01,2005-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,75.490508,I,base year is 2015
+AUS,2006-02-01,2006-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,78.533188,I,base year is 2015
+AUS,2007-02-01,2007-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,83.113223,I,base year is 2015
+AUS,2008-02-01,2008-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,86.636327,I,base year is 2015
+AUS,2009-02-01,2009-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,91.568673,I,base year is 2015
+AUS,2010-02-01,2010-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,92.593576,I,base year is 2015
+AUS,2011-02-01,2011-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,96.020595,I,base year is 2015
+AUS,2012-02-01,2012-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,95.219890,I,base year is 2015
+AUS,2013-02-01,2013-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,96.340877,I,base year is 2015
+AUS,2014-02-01,2014-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.102429,I,base year is 2015
+AUS,2015-02-01,2015-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.960066,I,base year is 2015
+AUS,2016-02-01,2016-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.088179,I,base year is 2015
+AUS,2017-02-01,2017-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,101.913787,I,base year is 2015
+AUS,2018-02-01,2018-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,102.170013,I,base year is 2015
+AUS,2019-02-01,2019-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,104.283875,I,base year is 2015
+AUS,2020-02-01,2020-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,107.422640,I,base year is 2015
+AUS,2021-02-01,2021-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,108.735797,I,base year is 2015
+AUS,2022-02-01,2022-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,112.547155,I,base year is 2015
+AUS,2023-02-01,2023-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,121.963451,I,base year is 2015
+AUS,2024-02-01,2024-02-29,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,126.831740,I,base year is 2015
+AUS,2025-02-01,2025-02-28,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,130.835267,I,base year is 2015
+AUS,2000-03-01,2000-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,62.647193,A,base year is 2015
+AUS,2001-03-01,2001-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,66.874917,A,base year is 2015
+AUS,2002-03-01,2002-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,70.045711,A,base year is 2015
+AUS,2003-03-01,2003-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,72.736081,A,base year is 2015
+AUS,2004-03-01,2004-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,75.138197,A,base year is 2015
+AUS,2005-03-01,2005-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,75.714705,A,base year is 2015
+AUS,2006-03-01,2006-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,78.885499,A,base year is 2015
+AUS,2007-03-01,2007-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,82.440631,A,base year is 2015
+AUS,2008-03-01,2008-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,87.244863,A,base year is 2015
+AUS,2009-03-01,2009-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,92.241265,A,base year is 2015
+AUS,2010-03-01,2010-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,92.913858,A,base year is 2015
+AUS,2011-03-01,2011-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,96.949413,A,base year is 2015
+AUS,2012-03-01,2012-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,94.547297,A,base year is 2015
+AUS,2013-03-01,2013-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,96.084651,A,base year is 2015
+AUS,2014-03-01,2014-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.198514,A,base year is 2015
+AUS,2015-03-01,2015-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.024122,A,base year is 2015
+AUS,2016-03-01,2016-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.024122,A,base year is 2015
+AUS,2017-03-01,2017-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,101.849730,A,base year is 2015
+AUS,2018-03-01,2018-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,102.330154,A,base year is 2015
+AUS,2019-03-01,2019-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,104.732270,A,base year is 2015
+AUS,2020-03-01,2020-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,108.095233,A,base year is 2015
+AUS,2021-03-01,2021-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,108.863910,A,base year is 2015
+AUS,2022-03-01,2022-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,113.572058,A,base year is 2015
+AUS,2023-03-01,2023-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,122.604015,A,base year is 2015
+AUS,2024-03-01,2024-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,127.216078,A,base year is 2015
+AUS,2025-03-01,2025-03-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,131.347718,A,base year is 2015
+AUS,2000-04-01,2000-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,62.839362,I,base year is 2015
+AUS,2001-04-01,2001-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,67.067087,I,base year is 2015
+AUS,2002-04-01,2002-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,69.917598,I,base year is 2015
+AUS,2003-04-01,2003-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,72.736081,I,base year is 2015
+AUS,2004-04-01,2004-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,74.914000,I,base year is 2015
+AUS,2005-04-01,2005-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,75.746734,I,base year is 2015
+AUS,2006-04-01,2006-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,79.974458,I,base year is 2015
+AUS,2007-04-01,2007-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,82.921054,I,base year is 2015
+AUS,2008-04-01,2008-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,87.212835,I,base year is 2015
+AUS,2009-04-01,2009-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,91.953011,I,base year is 2015
+AUS,2010-04-01,2010-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,92.817773,I,base year is 2015
+AUS,2011-04-01,2011-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,97.397808,I,base year is 2015
+AUS,2012-04-01,2012-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,94.739466,I,base year is 2015
+AUS,2013-04-01,2013-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,96.116680,I,base year is 2015
+AUS,2014-04-01,2014-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,98.326627,I,base year is 2015
+AUS,2015-04-01,2015-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.960066,I,base year is 2015
+AUS,2016-04-01,2016-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,99.928037,I,base year is 2015
+AUS,2017-04-01,2017-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,101.785674,I,base year is 2015
+AUS,2018-04-01,2018-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,102.202041,I,base year is 2015
+AUS,2019-04-01,2019-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,104.604157,I,base year is 2015
+AUS,2020-04-01,2020-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,108.287402,I,base year is 2015
+AUS,2021-04-01,2021-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,109.056079,I,base year is 2015
+AUS,2022-04-01,2022-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,114.340735,I,base year is 2015
+AUS,2023-04-01,2023-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,123.276608,I,base year is 2015
+AUS,2024-04-01,2024-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,127.728530,I,base year is 2015
+AUS,2025-04-01,2025-04-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,131.764085,I,base year is 2015
+AUS,2000-05-01,2000-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,63.031531,I,base year is 2015
+AUS,2001-05-01,2001-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,67.259256,I,base year is 2015
+AUS,2002-05-01,2002-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,69.789485,I,base year is 2015
+AUS,2003-05-01,2003-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,72.736081,I,base year is 2015
+AUS,2004-05-01,2004-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,74.689802,I,base year is 2015
+AUS,2005-05-01,2005-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,75.778762,I,base year is 2015
+AUS,2006-05-01,2006-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,81.063418,I,base year is 2015
+AUS,2007-05-01,2007-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,83.401477,I,base year is 2015
+AUS,2008-05-01,2008-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,87.180807,I,base year is 2015
+AUS,2009-05-01,2009-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,91.664757,I,base year is 2015
+AUS,2010-05-01,2010-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,92.721689,I,base year is 2015
+AUS,2011-05-01,2011-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,97.846203,I,base year is 2015
+AUS,2012-05-01,2012-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,94.931636,I,base year is 2015
+AUS,2013-05-01,2013-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,96.148708,I,base year is 2015
+AUS,2014-05-01,2014-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,98.454739,I,base year is 2015
+AUS,2015-05-01,2015-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.896009,I,base year is 2015
+AUS,2016-05-01,2016-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,99.831953,I,base year is 2015
+AUS,2017-05-01,2017-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,101.721618,I,base year is 2015
+AUS,2018-05-01,2018-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,102.073928,I,base year is 2015
+AUS,2019-05-01,2019-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,104.476044,I,base year is 2015
+AUS,2020-05-01,2020-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,108.479571,I,base year is 2015
+AUS,2021-05-01,2021-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,109.248249,I,base year is 2015
+AUS,2022-05-01,2022-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,115.109412,I,base year is 2015
+AUS,2023-05-01,2023-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,123.949200,I,base year is 2015
+AUS,2024-05-01,2024-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,128.240981,I,base year is 2015
+AUS,2025-05-01,2025-05-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,132.180452,I,base year is 2015
+AUS,2000-06-01,2000-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,63.223701,A,base year is 2015
+AUS,2001-06-01,2001-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,67.451425,A,base year is 2015
+AUS,2002-06-01,2002-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,69.661372,A,base year is 2015
+AUS,2003-06-01,2003-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,72.736081,A,base year is 2015
+AUS,2004-06-01,2004-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,74.465605,A,base year is 2015
+AUS,2005-06-01,2005-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,75.810790,A,base year is 2015
+AUS,2006-06-01,2006-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,82.152377,A,base year is 2015
+AUS,2007-06-01,2007-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,83.881901,A,base year is 2015
+AUS,2008-06-01,2008-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,87.148779,A,base year is 2015
+AUS,2009-06-01,2009-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,91.376503,A,base year is 2015
+AUS,2010-06-01,2010-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,92.625604,A,base year is 2015
+AUS,2011-06-01,2011-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,98.294598,A,base year is 2015
+AUS,2012-06-01,2012-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,95.123805,A,base year is 2015
+AUS,2013-06-01,2013-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,96.180736,A,base year is 2015
+AUS,2014-06-01,2014-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,98.582852,A,base year is 2015
+AUS,2015-06-01,2015-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,99.831953,A,base year is 2015
+AUS,2016-06-01,2016-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,99.735868,A,base year is 2015
+AUS,2017-06-01,2017-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,101.657561,A,base year is 2015
+AUS,2018-06-01,2018-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,101.945815,A,base year is 2015
+AUS,2019-06-01,2019-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,104.347931,A,base year is 2015
+AUS,2020-06-01,2020-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,108.671741,A,base year is 2015
+AUS,2021-06-01,2021-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,109.440418,A,base year is 2015
+AUS,2022-06-01,2022-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,115.878090,A,base year is 2015
+AUS,2023-06-01,2023-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,124.621793,A,base year is 2015
+AUS,2024-06-01,2024-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,128.753433,A,base year is 2015
+AUS,2025-06-01,2025-06-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,132.596819,A,base year is 2015
+AUS,2000-07-01,2000-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,63.576011,I,base year is 2015
+AUS,2001-07-01,2001-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,67.579538,I,base year is 2015
+AUS,2002-07-01,2002-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,69.917598,I,base year is 2015
+AUS,2003-07-01,2003-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,72.672025,I,base year is 2015
+AUS,2004-07-01,2004-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,74.305464,I,base year is 2015
+AUS,2005-07-01,2005-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,76.002959,I,base year is 2015
+AUS,2006-07-01,2006-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,82.792941,I,base year is 2015
+AUS,2007-07-01,2007-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,84.426380,I,base year is 2015
+AUS,2008-07-01,2008-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,87.565146,I,base year is 2015
+AUS,2009-07-01,2009-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,91.120278,I,base year is 2015
+AUS,2010-07-01,2010-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,92.465463,I,base year is 2015
+AUS,2011-07-01,2011-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,98.198514,I,base year is 2015
+AUS,2012-07-01,2012-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,95.732341,I,base year is 2015
+AUS,2013-07-01,2013-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,96.244792,I,base year is 2015
+AUS,2014-07-01,2014-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.967191,I,base year is 2015
+AUS,2015-07-01,2015-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.863981,I,base year is 2015
+AUS,2016-07-01,2016-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.312376,I,base year is 2015
+AUS,2017-07-01,2017-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,101.369307,I,base year is 2015
+AUS,2018-07-01,2018-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,102.105956,I,base year is 2015
+AUS,2019-07-01,2019-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,104.476044,I,base year is 2015
+AUS,2020-07-01,2020-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,108.543628,I,base year is 2015
+AUS,2021-07-01,2021-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,109.536503,I,base year is 2015
+AUS,2022-07-01,2022-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,117.127190,I,base year is 2015
+AUS,2023-07-01,2023-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,124.878019,I,base year is 2015
+AUS,2024-07-01,2024-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,129.009659,I,base year is 2015
+AUS,2025-07-01,2025-07-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,132.917101,I,base year is 2015
+AUS,2000-08-01,2000-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,63.928321,I,base year is 2015
+AUS,2001-08-01,2001-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,67.707651,I,base year is 2015
+AUS,2002-08-01,2002-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,70.173824,I,base year is 2015
+AUS,2003-08-01,2003-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,72.607968,I,base year is 2015
+AUS,2004-08-01,2004-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,74.145323,I,base year is 2015
+AUS,2005-08-01,2005-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,76.195129,I,base year is 2015
+AUS,2006-08-01,2006-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,83.433506,I,base year is 2015
+AUS,2007-08-01,2007-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,84.970860,I,base year is 2015
+AUS,2008-08-01,2008-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,87.981512,I,base year is 2015
+AUS,2009-08-01,2009-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,90.864052,I,base year is 2015
+AUS,2010-08-01,2010-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,92.305322,I,base year is 2015
+AUS,2011-08-01,2011-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,98.102429,I,base year is 2015
+AUS,2012-08-01,2012-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,96.340877,I,base year is 2015
+AUS,2013-08-01,2013-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,96.308849,I,base year is 2015
+AUS,2014-08-01,2014-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,99.351530,I,base year is 2015
+AUS,2015-08-01,2015-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.896009,I,base year is 2015
+AUS,2016-08-01,2016-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.888884,I,base year is 2015
+AUS,2017-08-01,2017-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,101.081053,I,base year is 2015
+AUS,2018-08-01,2018-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,102.266097,I,base year is 2015
+AUS,2019-08-01,2019-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,104.604157,I,base year is 2015
+AUS,2020-08-01,2020-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,108.415515,I,base year is 2015
+AUS,2021-08-01,2021-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,109.632587,I,base year is 2015
+AUS,2022-08-01,2022-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,118.376291,I,base year is 2015
+AUS,2023-08-01,2023-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,125.134244,I,base year is 2015
+AUS,2024-08-01,2024-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,129.265884,I,base year is 2015
+AUS,2025-08-01,2025-08-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,133.237383,I,base year is 2015
+AUS,2000-09-01,2000-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,64.280632,A,base year is 2015
+AUS,2001-09-01,2001-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,67.835764,A,base year is 2015
+AUS,2002-09-01,2002-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,70.430049,A,base year is 2015
+AUS,2003-09-01,2003-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,72.543912,A,base year is 2015
+AUS,2004-09-01,2004-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,73.985182,A,base year is 2015
+AUS,2005-09-01,2005-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,76.387298,A,base year is 2015
+AUS,2006-09-01,2006-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,84.074070,A,base year is 2015
+AUS,2007-09-01,2007-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,85.515340,A,base year is 2015
+AUS,2008-09-01,2008-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,88.397879,A,base year is 2015
+AUS,2009-09-01,2009-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,90.607826,A,base year is 2015
+AUS,2010-09-01,2010-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,92.145181,A,base year is 2015
+AUS,2011-09-01,2011-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,98.006344,A,base year is 2015
+AUS,2012-09-01,2012-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,96.949413,A,base year is 2015
+AUS,2013-09-01,2013-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,96.372905,A,base year is 2015
+AUS,2014-09-01,2014-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.735868,A,base year is 2015
+AUS,2015-09-01,2015-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.928037,A,base year is 2015
+AUS,2016-09-01,2016-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,101.465392,A,base year is 2015
+AUS,2017-09-01,2017-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,100.792799,A,base year is 2015
+AUS,2018-09-01,2018-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,102.426238,A,base year is 2015
+AUS,2019-09-01,2019-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,104.732270,A,base year is 2015
+AUS,2020-09-01,2020-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,108.287402,A,base year is 2015
+AUS,2021-09-01,2021-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,109.728672,A,base year is 2015
+AUS,2022-09-01,2022-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,119.625391,A,base year is 2015
+AUS,2023-09-01,2023-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,125.390470,A,base year is 2015
+AUS,2024-09-01,2024-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,129.522110,A,base year is 2015
+AUS,2025-09-01,2025-09-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,133.557665,A,base year is 2015
+AUS,2000-10-01,2000-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,64.440773,I,base year is 2015
+AUS,2001-10-01,2001-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,68.444300,I,base year is 2015
+AUS,2002-10-01,2002-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,70.750332,I,base year is 2015
+AUS,2003-10-01,2003-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,72.960279,I,base year is 2015
+AUS,2004-10-01,2004-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,74.337492,I,base year is 2015
+AUS,2005-10-01,2005-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,76.867721,I,base year is 2015
+AUS,2006-10-01,2006-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,84.202183,I,base year is 2015
+AUS,2007-10-01,2007-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,85.483312,I,base year is 2015
+AUS,2008-10-01,2008-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,89.006415,I,base year is 2015
+AUS,2009-10-01,2009-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,91.056221,I,base year is 2015
+AUS,2010-10-01,2010-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,92.817773,I,base year is 2015
+AUS,2011-10-01,2011-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,97.525921,I,base year is 2015
+AUS,2012-10-01,2012-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,96.917385,I,base year is 2015
+AUS,2013-10-01,2013-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,96.885357,I,base year is 2015
+AUS,2014-10-01,2014-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.767896,I,base year is 2015
+AUS,2015-10-01,2015-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.024122,I,base year is 2015
+AUS,2016-10-01,2016-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,101.657561,I,base year is 2015
+AUS,2017-10-01,2017-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,101.145110,I,base year is 2015
+AUS,2018-10-01,2018-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,102.746521,I,base year is 2015
+AUS,2019-10-01,2019-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,105.180665,I,base year is 2015
+AUS,2020-10-01,2020-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,108.351459,I,base year is 2015
+AUS,2021-10-01,2021-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,109.984898,I,base year is 2015
+AUS,2022-10-01,2022-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,119.977701,I,base year is 2015
+AUS,2023-10-01,2023-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,125.614668,I,base year is 2015
+AUS,2024-10-01,2024-10-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,129.618195,I,base year is 2015
+AUS,2000-11-01,2000-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,64.600914,I,base year is 2015
+AUS,2001-11-01,2001-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,69.052836,I,base year is 2015
+AUS,2002-11-01,2002-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,71.070614,I,base year is 2015
+AUS,2003-11-01,2003-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,73.376645,I,base year is 2015
+AUS,2004-11-01,2004-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,74.689802,I,base year is 2015
+AUS,2005-11-01,2005-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,77.348144,I,base year is 2015
+AUS,2006-11-01,2006-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,84.330296,I,base year is 2015
+AUS,2007-11-01,2007-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,85.451283,I,base year is 2015
+AUS,2008-11-01,2008-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,89.614952,I,base year is 2015
+AUS,2009-11-01,2009-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,91.504616,I,base year is 2015
+AUS,2010-11-01,2010-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,93.490366,I,base year is 2015
+AUS,2011-11-01,2011-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,97.045498,I,base year is 2015
+AUS,2012-11-01,2012-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,96.885357,I,base year is 2015
+AUS,2013-11-01,2013-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.397808,I,base year is 2015
+AUS,2014-11-01,2014-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.799925,I,base year is 2015
+AUS,2015-11-01,2015-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.120207,I,base year is 2015
+AUS,2016-11-01,2016-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.849730,I,base year is 2015
+AUS,2017-11-01,2017-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,101.497420,I,base year is 2015
+AUS,2018-11-01,2018-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,103.066803,I,base year is 2015
+AUS,2019-11-01,2019-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,105.629060,I,base year is 2015
+AUS,2020-11-01,2020-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,108.415515,I,base year is 2015
+AUS,2021-11-01,2021-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,110.241123,I,base year is 2015
+AUS,2022-11-01,2022-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,120.330012,I,base year is 2015
+AUS,2023-11-01,2023-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,125.838865,I,base year is 2015
+AUS,2024-11-01,2024-11-30,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,129.714279,I,base year is 2015
+AUS,2000-12-01,2000-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,64.761055,A,base year is 2015
+AUS,2001-12-01,2001-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,69.661372,A,base year is 2015
+AUS,2002-12-01,2002-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,71.390896,A,base year is 2015
+AUS,2003-12-01,2003-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,73.793012,A,base year is 2015
+AUS,2004-12-01,2004-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,75.042113,A,base year is 2015
+AUS,2005-12-01,2005-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,77.828568,A,base year is 2015
+AUS,2006-12-01,2006-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,84.458409,A,base year is 2015
+AUS,2007-12-01,2007-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,85.419255,A,base year is 2015
+AUS,2008-12-01,2008-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,90.223488,A,base year is 2015
+AUS,2009-12-01,2009-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,91.953011,A,base year is 2015
+AUS,2010-12-01,2010-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,94.162958,A,base year is 2015
+AUS,2011-12-01,2011-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,96.565075,A,base year is 2015
+AUS,2012-12-01,2012-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,96.853329,A,base year is 2015
+AUS,2013-12-01,2013-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,97.910260,A,base year is 2015
+AUS,2014-12-01,2014-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.831953,A,base year is 2015
+AUS,2015-12-01,2015-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.216291,A,base year is 2015
+AUS,2016-12-01,2016-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,102.041900,A,base year is 2015
+AUS,2017-12-01,2017-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,101.849730,A,base year is 2015
+AUS,2018-12-01,2018-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,103.387085,A,base year is 2015
+AUS,2019-12-01,2019-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,106.077455,A,base year is 2015
+AUS,2020-12-01,2020-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,108.479571,A,base year is 2015
+AUS,2021-12-01,2021-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,110.497349,A,base year is 2015
+AUS,2022-12-01,2022-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,120.682322,A,base year is 2015
+AUS,2023-12-01,2023-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,126.063063,A,base year is 2015
+AUS,2024-12-01,2024-12-31,10,'036,Australia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,129.810364,A,base year is 2015
+AUS,2000-01-01,2000-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,64.361335,I,base year is 2015
+AUS,2001-01-01,2001-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,68.138191,I,base year is 2015
+AUS,2002-01-01,2002-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,70.243324,I,base year is 2015
+AUS,2003-01-01,2003-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,72.379414,I,base year is 2015
+AUS,2004-01-01,2004-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,74.051137,I,base year is 2015
+AUS,2005-01-01,2005-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,75.877649,I,base year is 2015
+AUS,2006-01-01,2006-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,78.044698,I,base year is 2015
+AUS,2007-01-01,2007-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,80.428451,I,base year is 2015
+AUS,2008-01-01,2008-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,83.121782,I,base year is 2015
+AUS,2009-01-01,2009-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,85.846072,I,base year is 2015
+AUS,2010-01-01,2010-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,87.858331,I,base year is 2015
+AUS,2011-01-01,2011-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,90.427831,I,base year is 2015
+AUS,2012-01-01,2012-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,92.718711,I,base year is 2015
+AUS,2013-01-01,2013-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,94.854801,I,base year is 2015
+AUS,2014-01-01,2014-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,97.517175,I,base year is 2015
+AUS,2015-01-01,2015-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.065066,I,base year is 2015
+AUS,2016-01-01,2016-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.612958,I,base year is 2015
+AUS,2017-01-01,2017-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.315639,I,base year is 2015
+AUS,2018-01-01,2018-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,104.265982,I,base year is 2015
+AUS,2019-01-01,2019-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,105.968663,I,base year is 2015
+AUS,2020-01-01,2020-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,108.042838,I,base year is 2015
+AUS,2021-01-01,2021-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,109.064447,I,base year is 2015
+AUS,2022-01-01,2022-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,113.460459,I,base year is 2015
+AUS,2023-01-01,2023-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,122.035779,I,base year is 2015
+AUS,2024-01-01,2024-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,126.803285,I,base year is 2015
+AUS,2025-01-01,2025-01-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,129.868110,I,base year is 2015
+AUS,2000-02-01,2000-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,64.547082,I,base year is 2015
+AUS,2001-02-01,2001-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,68.385854,I,base year is 2015
+AUS,2002-02-01,2002-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,70.460028,I,base year is 2015
+AUS,2003-02-01,2003-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,72.688992,I,base year is 2015
+AUS,2004-02-01,2004-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,74.267842,I,base year is 2015
+AUS,2005-02-01,2005-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,76.063396,I,base year is 2015
+AUS,2006-02-01,2006-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,78.261402,I,base year is 2015
+AUS,2007-02-01,2007-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,80.428451,I,base year is 2015
+AUS,2008-02-01,2008-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,83.493276,I,base year is 2015
+AUS,2009-02-01,2009-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,85.877029,I,base year is 2015
+AUS,2010-02-01,2010-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,88.136951,I,base year is 2015
+AUS,2011-02-01,2011-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,90.861241,I,base year is 2015
+AUS,2012-02-01,2012-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,92.749668,I,base year is 2015
+AUS,2013-02-01,2013-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,94.978632,I,base year is 2015
+AUS,2014-02-01,2014-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,97.702922,I,base year is 2015
+AUS,2015-02-01,2015-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.126982,I,base year is 2015
+AUS,2016-02-01,2016-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.551042,I,base year is 2015
+AUS,2017-02-01,2017-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,102.470428,I,base year is 2015
+AUS,2018-02-01,2018-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,104.420772,I,base year is 2015
+AUS,2019-02-01,2019-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,105.968663,I,base year is 2015
+AUS,2020-02-01,2020-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,108.166669,I,base year is 2015
+AUS,2021-02-01,2021-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,109.281151,I,base year is 2015
+AUS,2022-02-01,2022-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,114.265363,I,base year is 2015
+AUS,2023-02-01,2023-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,122.593020,I,base year is 2015
+AUS,2024-02-01,2024-02-29,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,127.205737,I,base year is 2015
+AUS,2025-02-01,2025-02-28,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,130.270562,I,base year is 2015
+AUS,2000-03-01,2000-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,64.732829,A,base year is 2015
+AUS,2001-03-01,2001-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,68.633516,A,base year is 2015
+AUS,2002-03-01,2002-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,70.676733,A,base year is 2015
+AUS,2003-03-01,2003-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,72.998571,A,base year is 2015
+AUS,2004-03-01,2004-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,74.484547,A,base year is 2015
+AUS,2005-03-01,2005-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,76.249143,A,base year is 2015
+AUS,2006-03-01,2006-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,78.478107,A,base year is 2015
+AUS,2007-03-01,2007-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,80.428451,A,base year is 2015
+AUS,2008-03-01,2008-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,83.864770,A,base year is 2015
+AUS,2009-03-01,2009-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,85.907987,A,base year is 2015
+AUS,2010-03-01,2010-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,88.415572,A,base year is 2015
+AUS,2011-03-01,2011-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,91.294650,A,base year is 2015
+AUS,2012-03-01,2012-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,92.780626,A,base year is 2015
+AUS,2013-03-01,2013-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,95.102464,A,base year is 2015
+AUS,2014-03-01,2014-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,97.888669,A,base year is 2015
+AUS,2015-03-01,2015-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.188898,A,base year is 2015
+AUS,2016-03-01,2016-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.489127,A,base year is 2015
+AUS,2017-03-01,2017-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.625217,A,base year is 2015
+AUS,2018-03-01,2018-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,104.575561,A,base year is 2015
+AUS,2019-03-01,2019-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,105.968663,A,base year is 2015
+AUS,2020-03-01,2020-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,108.290501,A,base year is 2015
+AUS,2021-03-01,2021-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,109.497856,A,base year is 2015
+AUS,2022-03-01,2022-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,115.070266,A,base year is 2015
+AUS,2023-03-01,2023-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,123.150261,A,base year is 2015
+AUS,2024-03-01,2024-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,127.608189,A,base year is 2015
+AUS,2025-03-01,2025-03-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,130.673014,A,base year is 2015
+AUS,2000-04-01,2000-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,64.887618,I,base year is 2015
+AUS,2001-04-01,2001-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,68.819263,I,base year is 2015
+AUS,2002-04-01,2002-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,70.831522,I,base year is 2015
+AUS,2003-04-01,2003-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,72.998571,I,base year is 2015
+AUS,2004-04-01,2004-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,74.608378,I,base year is 2015
+AUS,2005-04-01,2005-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,76.403932,I,base year is 2015
+AUS,2006-04-01,2006-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,78.911517,I,base year is 2015
+AUS,2007-04-01,2007-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,80.768987,I,base year is 2015
+AUS,2008-04-01,2008-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,84.267222,I,base year is 2015
+AUS,2009-04-01,2009-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,86.031819,I,base year is 2015
+AUS,2010-04-01,2010-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,88.601319,I,base year is 2015
+AUS,2011-04-01,2011-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,91.573271,I,base year is 2015
+AUS,2012-04-01,2012-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,92.935415,I,base year is 2015
+AUS,2013-04-01,2013-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,95.226295,I,base year is 2015
+AUS,2014-04-01,2014-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,98.043458,I,base year is 2015
+AUS,2015-04-01,2015-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.405603,I,base year is 2015
+AUS,2016-04-01,2016-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,100.612958,I,base year is 2015
+AUS,2017-04-01,2017-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.687133,I,base year is 2015
+AUS,2018-04-01,2018-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,104.699392,I,base year is 2015
+AUS,2019-04-01,2019-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,106.185368,I,base year is 2015
+AUS,2020-04-01,2020-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,107.609428,I,base year is 2015
+AUS,2021-04-01,2021-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,109.776477,I,base year is 2015
+AUS,2022-04-01,2022-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,115.751339,I,base year is 2015
+AUS,2023-04-01,2023-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,123.490797,I,base year is 2015
+AUS,2024-04-01,2024-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,128.041598,I,base year is 2015
+AUS,2025-04-01,2025-04-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,130.982592,I,base year is 2015
+AUS,2000-05-01,2000-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,65.042408,I,base year is 2015
+AUS,2001-05-01,2001-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,69.005010,I,base year is 2015
+AUS,2002-05-01,2002-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,70.986312,I,base year is 2015
+AUS,2003-05-01,2003-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,72.998571,I,base year is 2015
+AUS,2004-05-01,2004-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,74.732209,I,base year is 2015
+AUS,2005-05-01,2005-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,76.558722,I,base year is 2015
+AUS,2006-05-01,2006-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,79.344927,I,base year is 2015
+AUS,2007-05-01,2007-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,81.109523,I,base year is 2015
+AUS,2008-05-01,2008-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,84.669674,I,base year is 2015
+AUS,2009-05-01,2009-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,86.155650,I,base year is 2015
+AUS,2010-05-01,2010-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,88.787066,I,base year is 2015
+AUS,2011-05-01,2011-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,91.851891,I,base year is 2015
+AUS,2012-05-01,2012-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,93.090205,I,base year is 2015
+AUS,2013-05-01,2013-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,95.350126,I,base year is 2015
+AUS,2014-05-01,2014-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,98.198247,I,base year is 2015
+AUS,2015-05-01,2015-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.622307,I,base year is 2015
+AUS,2016-05-01,2016-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.736789,I,base year is 2015
+AUS,2017-05-01,2017-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.749049,I,base year is 2015
+AUS,2018-05-01,2018-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,104.823223,I,base year is 2015
+AUS,2019-05-01,2019-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,106.402073,I,base year is 2015
+AUS,2020-05-01,2020-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,106.928356,I,base year is 2015
+AUS,2021-05-01,2021-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,110.055097,I,base year is 2015
+AUS,2022-05-01,2022-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,116.432411,I,base year is 2015
+AUS,2023-05-01,2023-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,123.831333,I,base year is 2015
+AUS,2024-05-01,2024-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,128.475008,I,base year is 2015
+AUS,2025-05-01,2025-05-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,131.292171,I,base year is 2015
+AUS,2000-06-01,2000-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,65.197197,A,base year is 2015
+AUS,2001-06-01,2001-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,69.190757,A,base year is 2015
+AUS,2002-06-01,2002-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,71.141101,A,base year is 2015
+AUS,2003-06-01,2003-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,72.998571,A,base year is 2015
+AUS,2004-06-01,2004-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,74.856041,A,base year is 2015
+AUS,2005-06-01,2005-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,76.713511,A,base year is 2015
+AUS,2006-06-01,2006-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,79.778336,A,base year is 2015
+AUS,2007-06-01,2007-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,81.450059,A,base year is 2015
+AUS,2008-06-01,2008-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,85.072126,A,base year is 2015
+AUS,2009-06-01,2009-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,86.279481,A,base year is 2015
+AUS,2010-06-01,2010-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,88.972813,A,base year is 2015
+AUS,2011-06-01,2011-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,92.130512,A,base year is 2015
+AUS,2012-06-01,2012-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,93.244994,A,base year is 2015
+AUS,2013-06-01,2013-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,95.473958,A,base year is 2015
+AUS,2014-06-01,2014-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,98.353036,A,base year is 2015
+AUS,2015-06-01,2015-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,99.839012,A,base year is 2015
+AUS,2016-06-01,2016-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,100.860621,A,base year is 2015
+AUS,2017-06-01,2017-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,102.810964,A,base year is 2015
+AUS,2018-06-01,2018-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,104.947055,A,base year is 2015
+AUS,2019-06-01,2019-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,106.618778,A,base year is 2015
+AUS,2020-06-01,2020-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,106.247284,A,base year is 2015
+AUS,2021-06-01,2021-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,110.333718,A,base year is 2015
+AUS,2022-06-01,2022-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,117.113483,A,base year is 2015
+AUS,2023-06-01,2023-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,124.171869,A,base year is 2015
+AUS,2024-06-01,2024-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,128.908418,A,base year is 2015
+AUS,2025-06-01,2025-06-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,131.601749,A,base year is 2015
+AUS,2000-07-01,2000-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,66.033058,I,base year is 2015
+AUS,2001-07-01,2001-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,69.252673,I,base year is 2015
+AUS,2002-07-01,2002-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,71.295890,I,base year is 2015
+AUS,2003-07-01,2003-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,73.153360,I,base year is 2015
+AUS,2004-07-01,2004-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,74.948914,I,base year is 2015
+AUS,2005-07-01,2005-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,76.961173,I,base year is 2015
+AUS,2006-07-01,2006-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,80.025999,I,base year is 2015
+AUS,2007-07-01,2007-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,81.635806,I,base year is 2015
+AUS,2008-07-01,2008-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,85.412662,I,base year is 2015
+AUS,2009-07-01,2009-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,86.558102,I,base year is 2015
+AUS,2010-07-01,2010-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,89.189518,I,base year is 2015
+AUS,2011-07-01,2011-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,92.316259,I,base year is 2015
+AUS,2012-07-01,2012-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,93.678403,I,base year is 2015
+AUS,2013-07-01,2013-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,95.845452,I,base year is 2015
+AUS,2014-07-01,2014-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.507825,I,base year is 2015
+AUS,2015-07-01,2015-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.993801,I,base year is 2015
+AUS,2016-07-01,2016-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,101.108283,I,base year is 2015
+AUS,2017-07-01,2017-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,103.027669,I,base year is 2015
+AUS,2018-07-01,2018-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,105.101844,I,base year is 2015
+AUS,2019-07-01,2019-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,106.804525,I,base year is 2015
+AUS,2020-07-01,2020-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,106.804525,I,base year is 2015
+AUS,2021-07-01,2021-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,110.612338,I,base year is 2015
+AUS,2022-07-01,2022-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,117.825513,I,base year is 2015
+AUS,2023-07-01,2023-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,124.667194,I,base year is 2015
+AUS,2024-07-01,2024-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,129.001291,I,base year is 2015
+AUS,2025-07-01,2025-07-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,132.189948,I,base year is 2015
+AUS,2000-08-01,2000-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,66.868920,I,base year is 2015
+AUS,2001-08-01,2001-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,69.314589,I,base year is 2015
+AUS,2002-08-01,2002-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,71.450679,I,base year is 2015
+AUS,2003-08-01,2003-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,73.308149,I,base year is 2015
+AUS,2004-08-01,2004-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,75.041788,I,base year is 2015
+AUS,2005-08-01,2005-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,77.208836,I,base year is 2015
+AUS,2006-08-01,2006-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,80.273662,I,base year is 2015
+AUS,2007-08-01,2007-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,81.821553,I,base year is 2015
+AUS,2008-08-01,2008-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,85.753198,I,base year is 2015
+AUS,2009-08-01,2009-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,86.836722,I,base year is 2015
+AUS,2010-08-01,2010-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,89.406222,I,base year is 2015
+AUS,2011-08-01,2011-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,92.502006,I,base year is 2015
+AUS,2012-08-01,2012-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,94.111813,I,base year is 2015
+AUS,2013-08-01,2013-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,96.216946,I,base year is 2015
+AUS,2014-08-01,2014-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.662615,I,base year is 2015
+AUS,2015-08-01,2015-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.148591,I,base year is 2015
+AUS,2016-08-01,2016-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,101.355946,I,base year is 2015
+AUS,2017-08-01,2017-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,103.244374,I,base year is 2015
+AUS,2018-08-01,2018-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,105.256633,I,base year is 2015
+AUS,2019-08-01,2019-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,106.990272,I,base year is 2015
+AUS,2020-08-01,2020-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,107.361766,I,base year is 2015
+AUS,2021-08-01,2021-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,110.890959,I,base year is 2015
+AUS,2022-08-01,2022-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,118.537544,I,base year is 2015
+AUS,2023-08-01,2023-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,125.162520,I,base year is 2015
+AUS,2024-08-01,2024-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,129.094165,I,base year is 2015
+AUS,2025-08-01,2025-08-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,132.778147,I,base year is 2015
+AUS,2000-09-01,2000-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,67.704781,A,base year is 2015
+AUS,2001-09-01,2001-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,69.376504,A,base year is 2015
+AUS,2002-09-01,2002-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,71.605468,A,base year is 2015
+AUS,2003-09-01,2003-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,73.462938,A,base year is 2015
+AUS,2004-09-01,2004-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,75.134661,A,base year is 2015
+AUS,2005-09-01,2005-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,77.456499,A,base year is 2015
+AUS,2006-09-01,2006-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,80.521324,A,base year is 2015
+AUS,2007-09-01,2007-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,82.007300,A,base year is 2015
+AUS,2008-09-01,2008-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,86.093734,A,base year is 2015
+AUS,2009-09-01,2009-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,87.115343,A,base year is 2015
+AUS,2010-09-01,2010-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,89.622927,A,base year is 2015
+AUS,2011-09-01,2011-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,92.687753,A,base year is 2015
+AUS,2012-09-01,2012-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,94.545223,A,base year is 2015
+AUS,2013-09-01,2013-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,96.588440,A,base year is 2015
+AUS,2014-09-01,2014-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.817404,A,base year is 2015
+AUS,2015-09-01,2015-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.303380,A,base year is 2015
+AUS,2016-09-01,2016-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,101.603609,A,base year is 2015
+AUS,2017-09-01,2017-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,103.461079,A,base year is 2015
+AUS,2018-09-01,2018-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,105.411422,A,base year is 2015
+AUS,2019-09-01,2019-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,107.176019,A,base year is 2015
+AUS,2020-09-01,2020-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,107.919007,A,base year is 2015
+AUS,2021-09-01,2021-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,111.169579,A,base year is 2015
+AUS,2022-09-01,2022-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,119.249574,A,base year is 2015
+AUS,2023-09-01,2023-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,125.657845,A,base year is 2015
+AUS,2024-09-01,2024-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,129.187038,A,base year is 2015
+AUS,2025-09-01,2025-09-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,133.366346,A,base year is 2015
+AUS,2000-10-01,2000-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,67.766697,I,base year is 2015
+AUS,2001-10-01,2001-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,69.593209,I,base year is 2015
+AUS,2002-10-01,2002-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,71.760257,I,base year is 2015
+AUS,2003-10-01,2003-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,73.586770,I,base year is 2015
+AUS,2004-10-01,2004-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,75.320408,I,base year is 2015
+AUS,2005-10-01,2005-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,77.580330,I,base year is 2015
+AUS,2006-10-01,2006-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,80.490366,I,base year is 2015
+AUS,2007-10-01,2007-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,82.254963,I,base year is 2015
+AUS,2008-10-01,2008-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,86.000861,I,base year is 2015
+AUS,2009-10-01,2009-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,87.270132,I,base year is 2015
+AUS,2010-10-01,2010-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,89.746759,I,base year is 2015
+AUS,2011-10-01,2011-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,92.687753,I,base year is 2015
+AUS,2012-10-01,2012-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,94.607138,I,base year is 2015
+AUS,2013-10-01,2013-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,96.836102,I,base year is 2015
+AUS,2014-10-01,2014-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,98.879319,I,base year is 2015
+AUS,2015-10-01,2015-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.427211,I,base year is 2015
+AUS,2016-10-01,2016-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,101.789356,I,base year is 2015
+AUS,2017-10-01,2017-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,103.677784,I,base year is 2015
+AUS,2018-10-01,2018-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,105.597169,I,base year is 2015
+AUS,2019-10-01,2019-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,107.423681,I,base year is 2015
+AUS,2020-10-01,2020-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,108.228585,I,base year is 2015
+AUS,2021-10-01,2021-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,111.664905,I,base year is 2015
+AUS,2022-10-01,2022-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,119.992562,I,base year is 2015
+AUS,2023-10-01,2023-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,125.905508,I,base year is 2015
+AUS,2024-10-01,2024-10-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,129.279912,I,base year is 2015
+AUS,2000-11-01,2000-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,67.828613,I,base year is 2015
+AUS,2001-11-01,2001-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,69.809914,I,base year is 2015
+AUS,2002-11-01,2002-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,71.915047,I,base year is 2015
+AUS,2003-11-01,2003-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,73.710601,I,base year is 2015
+AUS,2004-11-01,2004-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,75.506155,I,base year is 2015
+AUS,2005-11-01,2005-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,77.704161,I,base year is 2015
+AUS,2006-11-01,2006-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,80.459409,I,base year is 2015
+AUS,2007-11-01,2007-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,82.502626,I,base year is 2015
+AUS,2008-11-01,2008-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,85.907987,I,base year is 2015
+AUS,2009-11-01,2009-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,87.424921,I,base year is 2015
+AUS,2010-11-01,2010-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,89.870590,I,base year is 2015
+AUS,2011-11-01,2011-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,92.687753,I,base year is 2015
+AUS,2012-11-01,2012-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,94.669054,I,base year is 2015
+AUS,2013-11-01,2013-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.083765,I,base year is 2015
+AUS,2014-11-01,2014-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,98.941235,I,base year is 2015
+AUS,2015-11-01,2015-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.551042,I,base year is 2015
+AUS,2016-11-01,2016-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.975103,I,base year is 2015
+AUS,2017-11-01,2017-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,103.894488,I,base year is 2015
+AUS,2018-11-01,2018-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,105.782916,I,base year is 2015
+AUS,2019-11-01,2019-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,107.671344,I,base year is 2015
+AUS,2020-11-01,2020-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,108.538163,I,base year is 2015
+AUS,2021-11-01,2021-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,112.160230,I,base year is 2015
+AUS,2022-11-01,2022-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,120.735550,I,base year is 2015
+AUS,2023-11-01,2023-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,126.153170,I,base year is 2015
+AUS,2024-11-01,2024-11-30,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,129.372785,I,base year is 2015
+AUS,2000-12-01,2000-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,67.890528,A,base year is 2015
+AUS,2001-12-01,2001-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,70.026619,A,base year is 2015
+AUS,2002-12-01,2002-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,72.069836,A,base year is 2015
+AUS,2003-12-01,2003-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,73.834432,A,base year is 2015
+AUS,2004-12-01,2004-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,75.691902,A,base year is 2015
+AUS,2005-12-01,2005-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,77.827993,A,base year is 2015
+AUS,2006-12-01,2006-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,80.428451,A,base year is 2015
+AUS,2007-12-01,2007-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,82.750288,A,base year is 2015
+AUS,2008-12-01,2008-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,85.815114,A,base year is 2015
+AUS,2009-12-01,2009-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,87.579710,A,base year is 2015
+AUS,2010-12-01,2010-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,89.994421,A,base year is 2015
+AUS,2011-12-01,2011-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,92.687753,A,base year is 2015
+AUS,2012-12-01,2012-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,94.730970,A,base year is 2015
+AUS,2013-12-01,2013-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,97.331428,A,base year is 2015
+AUS,2014-12-01,2014-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.003151,A,base year is 2015
+AUS,2015-12-01,2015-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.674874,A,base year is 2015
+AUS,2016-12-01,2016-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,102.160850,A,base year is 2015
+AUS,2017-12-01,2017-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,104.111193,A,base year is 2015
+AUS,2018-12-01,2018-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,105.968663,A,base year is 2015
+AUS,2019-12-01,2019-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,107.919007,A,base year is 2015
+AUS,2020-12-01,2020-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,108.847742,A,base year is 2015
+AUS,2021-12-01,2021-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,112.655555,A,base year is 2015
+AUS,2022-12-01,2022-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,121.478538,A,base year is 2015
+AUS,2023-12-01,2023-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,126.400833,A,base year is 2015
+AUS,2024-12-01,2024-12-31,10,'036,Australia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,129.465659,A,base year is 2015
+AUS,2001-01-01,2001-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,4.605937,E,
+AUS,2002-01-01,2002-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,6.604697,E,
+AUS,2003-01-01,2003-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,2.937127,E,
+AUS,2004-01-01,2004-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,3.343736,E,
+AUS,2005-01-01,2005-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,1.380500,E,
+AUS,2006-01-01,2006-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,3.872340,E,
+AUS,2007-01-01,2007-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,7.169193,E,
+AUS,2008-01-01,2008-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,2.675841,E,
+AUS,2009-01-01,2009-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,5.658972,E,
+AUS,2010-01-01,2010-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,1.515152,E,
+AUS,2011-01-01,2011-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,3.054495,E,
+AUS,2012-01-01,2012-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,0.842034,E,
+AUS,2013-01-01,2013-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,0.734803,E,
+AUS,2014-01-01,2014-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,1.458886,E,
+AUS,2015-01-01,2015-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,1.928105,E,
+AUS,2016-01-01,2016-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,0.256492,E,
+AUS,2017-01-01,2017-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,1.822833,E,
+AUS,2018-01-01,2018-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,0.031407,E,
+AUS,2019-01-01,2019-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,1.789639,E,
+AUS,2020-01-01,2020-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,2.806909,E,
+AUS,2021-01-01,2021-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,1.740174,E,
+AUS,2022-01-01,2022-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,2.683574,E,
+AUS,2023-01-01,2023-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,8.788053,E,
+AUS,2024-01-01,2024-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,4.223865,E,
+AUS,2025-01-01,2025-01-31,10,'036,Australia,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,3.064843,E,
+AUS,2001-02-01,2001-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,5.677749,E,
+AUS,2002-02-01,2002-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,5.663117,E,
+AUS,2003-02-01,2003-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,3.389831,E,
+AUS,2004-02-01,2004-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,3.322995,E,
+AUS,2005-02-01,2005-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,1.072041,E,
+AUS,2006-02-01,2006-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,4.030547,E,
+AUS,2007-02-01,2007-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,5.831974,E,
+AUS,2008-02-01,2008-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,4.238921,E,
+AUS,2009-02-01,2009-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,5.693161,E,
+AUS,2010-02-01,2010-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,1.119272,E,
+AUS,2011-02-01,2011-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,3.701141,E,
+AUS,2012-02-01,2012-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,-0.833889,E,
+AUS,2013-02-01,2013-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,1.177262,E,
+AUS,2014-02-01,2014-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,1.828457,E,
+AUS,2015-02-01,2015-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,1.893568,E,
+AUS,2016-02-01,2016-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,0.128164,E,
+AUS,2017-02-01,2017-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,1.824000,E,
+AUS,2018-02-01,2018-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,0.251414,E,
+AUS,2019-02-01,2019-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,2.068966,E,
+AUS,2020-02-01,2020-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,3.009828,E,
+AUS,2021-02-01,2021-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,1.222421,E,
+AUS,2022-02-01,2022-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,3.505155,E,
+AUS,2023-02-01,2023-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,8.366534,E,
+AUS,2024-02-01,2024-02-29,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,3.991597,E,
+AUS,2025-02-01,2025-02-28,10,'036,Australia,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,3.156566,E,
+AUS,2001-03-01,2001-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,6.748466,E,
+AUS,2002-03-01,2002-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,4.741379,E,
+AUS,2003-03-01,2003-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,3.840878,E,
+AUS,2004-03-01,2004-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,3.302510,E,
+AUS,2005-03-01,2005-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,0.767263,E,
+AUS,2006-03-01,2006-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,4.187817,E,
+AUS,2007-03-01,2007-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,4.506699,E,
+AUS,2008-03-01,2008-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,5.827506,E,
+AUS,2009-03-01,2009-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,5.726872,E,
+AUS,2010-03-01,2010-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,0.729167,E,
+AUS,2011-03-01,2011-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,4.343330,E,
+AUS,2012-03-01,2012-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,-2.477701,E,
+AUS,2013-03-01,2013-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,1.626016,E,
+AUS,2014-03-01,2014-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,2.200000,E,
+AUS,2015-03-01,2015-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,1.859100,E,
+AUS,2016-03-01,2016-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,0.000000,E,
+AUS,2017-03-01,2017-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,1.825168,E,
+AUS,2018-03-01,2018-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,0.471698,E,
+AUS,2019-03-01,2019-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,2.347418,E,
+AUS,2020-03-01,2020-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,3.211009,E,
+AUS,2021-03-01,2021-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,0.711111,E,
+AUS,2022-03-01,2022-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,4.324801,E,
+AUS,2023-03-01,2023-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,7.952623,E,
+AUS,2024-03-01,2024-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,3.761755,E,
+AUS,2025-03-01,2025-03-31,10,'036,Australia,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,3.247734,E,
+AUS,2001-04-01,2001-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,6.727829,E,
+AUS,2002-04-01,2002-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,4.250239,E,
+AUS,2003-04-01,2003-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,4.031150,E,
+AUS,2004-04-01,2004-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,2.994276,E,
+AUS,2005-04-01,2005-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,1.111586,E,
+AUS,2006-04-01,2006-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,5.581395,E,
+AUS,2007-04-01,2007-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,3.684421,E,
+AUS,2008-04-01,2008-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,5.175744,E,
+AUS,2009-04-01,2009-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,5.435182,E,
+AUS,2010-04-01,2010-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,0.940439,E,
+AUS,2011-04-01,2011-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,4.934438,E,
+AUS,2012-04-01,2012-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,-2.729365,E,
+AUS,2013-04-01,2013-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,1.453685,E,
+AUS,2014-04-01,2014-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,2.299234,E,
+AUS,2015-04-01,2015-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,1.661238,E,
+AUS,2016-04-01,2016-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,-0.032041,E,
+AUS,2017-04-01,2017-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,1.858974,E,
+AUS,2018-04-01,2018-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,0.409062,E,
+AUS,2019-04-01,2019-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,2.350360,E,
+AUS,2020-04-01,2020-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,3.521127,E,
+AUS,2021-04-01,2021-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,0.709849,E,
+AUS,2022-04-01,2022-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,4.845815,E,
+AUS,2023-04-01,2023-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,7.815126,E,
+AUS,2024-04-01,2024-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,3.611328,E,
+AUS,2025-04-01,2025-04-30,10,'036,Australia,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,3.159478,E,
+AUS,2001-05-01,2001-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,6.707317,E,
+AUS,2002-05-01,2002-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,3.761905,E,
+AUS,2003-05-01,2003-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,4.222120,E,
+AUS,2004-05-01,2004-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,2.686041,E,
+AUS,2005-05-01,2005-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,1.457976,E,
+AUS,2006-05-01,2006-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,6.973795,E,
+AUS,2007-05-01,2007-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,2.884235,E,
+AUS,2008-05-01,2008-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,4.531490,E,
+AUS,2009-05-01,2009-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,5.143277,E,
+AUS,2010-05-01,2010-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,1.153040,E,
+AUS,2011-05-01,2011-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,5.526770,E,
+AUS,2012-05-01,2012-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,-2.978723,E,
+AUS,2013-05-01,2013-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,1.282051,E,
+AUS,2014-05-01,2014-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,2.398401,E,
+AUS,2015-05-01,2015-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,1.463891,E,
+AUS,2016-05-01,2016-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,-0.064123,E,
+AUS,2017-05-01,2017-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,1.892846,E,
+AUS,2018-05-01,2018-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,0.346348,E,
+AUS,2019-05-01,2019-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,2.353310,E,
+AUS,2020-05-01,2020-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,3.832005,E,
+AUS,2021-05-01,2021-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,0.708592,E,
+AUS,2022-05-01,2022-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,5.364996,E,
+AUS,2023-05-01,2023-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,7.679466,E,
+AUS,2024-05-01,2024-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,3.462532,E,
+AUS,2025-05-01,2025-05-31,10,'036,Australia,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,3.071928,E,
+AUS,2001-06-01,2001-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,6.686930,E,
+AUS,2002-06-01,2002-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,3.276353,E,
+AUS,2003-06-01,2003-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,4.413793,E,
+AUS,2004-06-01,2004-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,2.377807,E,
+AUS,2005-06-01,2005-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,1.806452,E,
+AUS,2006-06-01,2006-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,8.365019,E,
+AUS,2007-06-01,2007-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,2.105263,E,
+AUS,2008-06-01,2008-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,3.894616,E,
+AUS,2009-06-01,2009-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,4.851158,E,
+AUS,2010-06-01,2010-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,1.366982,E,
+AUS,2011-06-01,2011-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,6.120332,E,
+AUS,2012-06-01,2012-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,-3.225806,E,
+AUS,2013-06-01,2013-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,1.111111,E,
+AUS,2014-06-01,2014-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,2.497502,E,
+AUS,2015-06-01,2015-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,1.267057,E,
+AUS,2016-06-01,2016-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,-0.096246,E,
+AUS,2017-06-01,2017-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,1.926782,E,
+AUS,2018-06-01,2018-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,0.283554,E,
+AUS,2019-06-01,2019-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,2.356268,E,
+AUS,2020-06-01,2020-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,4.143646,E,
+AUS,2021-06-01,2021-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,0.707339,E,
+AUS,2022-06-01,2022-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,5.882353,E,
+AUS,2023-06-01,2023-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,7.545605,E,
+AUS,2024-06-01,2024-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,3.315343,E,
+AUS,2025-06-01,2025-06-30,10,'036,Australia,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,2.985075,E,
+AUS,2001-07-01,2001-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,6.297229,E,
+AUS,2002-07-01,2002-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,3.459716,E,
+AUS,2003-07-01,2003-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,3.939533,E,
+AUS,2004-07-01,2004-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,2.247686,E,
+AUS,2005-07-01,2005-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,2.284483,E,
+AUS,2006-07-01,2006-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,8.933839,E,
+AUS,2007-07-01,2007-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,1.972921,E,
+AUS,2008-07-01,2008-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,3.717754,E,
+AUS,2009-07-01,2009-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,4.059985,E,
+AUS,2010-07-01,2010-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,1.476274,E,
+AUS,2011-07-01,2011-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,6.200208,E,
+AUS,2012-07-01,2012-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,-2.511416,E,
+AUS,2013-07-01,2013-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,0.535296,E,
+AUS,2014-07-01,2014-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,2.828619,E,
+AUS,2015-07-01,2015-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,0.906149,E,
+AUS,2016-07-01,2016-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,0.449006,E,
+AUS,2017-07-01,2017-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,1.053640,E,
+AUS,2018-07-01,2018-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,0.726698,E,
+AUS,2019-07-01,2019-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,2.321205,E,
+AUS,2020-07-01,2020-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,3.893317,E,
+AUS,2021-07-01,2021-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,0.914724,E,
+AUS,2022-07-01,2022-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,6.929825,E,
+AUS,2023-07-01,2023-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,6.617446,E,
+AUS,2024-07-01,2024-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,3.308541,E,
+AUS,2025-07-01,2025-07-31,10,'036,Australia,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,3.028798,E,
+AUS,2001-08-01,2001-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,5.911824,E,
+AUS,2002-08-01,2002-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,3.642384,E,
+AUS,2003-08-01,2003-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,3.468736,E,
+AUS,2004-08-01,2004-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,2.117336,E,
+AUS,2005-08-01,2005-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,2.764579,E,
+AUS,2006-08-01,2006-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,9.499790,E,
+AUS,2007-08-01,2007-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,1.842610,E,
+AUS,2008-08-01,2008-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,3.543159,E,
+AUS,2009-08-01,2009-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,3.276301,E,
+AUS,2010-08-01,2010-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,1.586183,E,
+AUS,2011-08-01,2011-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,6.280361,E,
+AUS,2012-08-01,2012-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,-1.795625,E,
+AUS,2013-08-01,2013-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,-0.033245,E,
+AUS,2014-08-01,2014-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,3.159295,E,
+AUS,2015-08-01,2015-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,0.548034,E,
+AUS,2016-08-01,2016-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,0.993908,E,
+AUS,2017-08-01,2017-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,0.190476,E,
+AUS,2018-08-01,2018-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,1.172370,E,
+AUS,2019-08-01,2019-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,2.286251,E,
+AUS,2020-08-01,2020-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,3.643601,E,
+AUS,2021-08-01,2021-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,1.122600,E,
+AUS,2022-08-01,2022-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,7.975460,E,
+AUS,2023-08-01,2023-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,5.708874,E,
+AUS,2024-08-01,2024-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,3.301766,E,
+AUS,2025-08-01,2025-08-31,10,'036,Australia,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,3.072349,E,
+AUS,2001-09-01,2001-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,5.530643,E,
+AUS,2002-09-01,2002-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,3.824363,E,
+AUS,2003-09-01,2003-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,3.001364,E,
+AUS,2004-09-01,2004-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,1.986755,E,
+AUS,2005-09-01,2005-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,3.246753,E,
+AUS,2006-09-01,2006-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,10.062893,E,
+AUS,2007-09-01,2007-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,1.714286,E,
+AUS,2008-09-01,2008-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,3.370787,E,
+AUS,2009-09-01,2009-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,2.500000,E,
+AUS,2010-09-01,2010-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,1.696713,E,
+AUS,2011-09-01,2011-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,6.360792,E,
+AUS,2012-09-01,2012-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,-1.078431,E,
+AUS,2013-09-01,2013-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,-0.594648,E,
+AUS,2014-09-01,2014-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,3.489531,E,
+AUS,2015-09-01,2015-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,0.192678,E,
+AUS,2016-09-01,2016-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,1.538462,E,
+AUS,2017-09-01,2017-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,-0.662879,E,
+AUS,2018-09-01,2018-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,1.620591,E,
+AUS,2019-09-01,2019-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,2.251407,E,
+AUS,2020-09-01,2020-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,3.394495,E,
+AUS,2021-09-01,2021-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,1.330967,E,
+AUS,2022-09-01,2022-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,9.019264,E,
+AUS,2023-09-01,2023-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,4.819277,E,
+AUS,2024-09-01,2024-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,3.295019,E,
+AUS,2025-09-01,2025-09-30,10,'036,Australia,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,3.115727,E,
+AUS,2001-10-01,2001-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,6.212724,E,
+AUS,2002-10-01,2002-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,3.369209,E,
+AUS,2003-10-01,2003-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,3.123585,E,
+AUS,2004-10-01,2004-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,1.887621,E,
+AUS,2005-10-01,2005-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,3.403705,E,
+AUS,2006-10-01,2006-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,9.541667,E,
+AUS,2007-10-01,2007-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,1.521491,E,
+AUS,2008-10-01,2008-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,4.121394,E,
+AUS,2009-10-01,2009-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,2.302987,E,
+AUS,2010-10-01,2010-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,1.934576,E,
+AUS,2011-10-01,2011-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,5.072464,E,
+AUS,2012-10-01,2012-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,-0.623974,E,
+AUS,2013-10-01,2013-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,-0.033047,E,
+AUS,2014-10-01,2014-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,2.975207,E,
+AUS,2015-10-01,2015-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,0.256822,E,
+AUS,2016-10-01,2016-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,1.633045,E,
+AUS,2017-10-01,2017-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,-0.504096,E,
+AUS,2018-10-01,2018-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,1.583281,E,
+AUS,2019-10-01,2019-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,2.369077,E,
+AUS,2020-10-01,2020-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,3.014616,E,
+AUS,2021-10-01,2021-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,1.507538,E,
+AUS,2022-10-01,2022-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,9.085614,E,
+AUS,2023-10-01,2023-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,4.698345,E,
+AUS,2024-10-01,2024-10-31,10,'036,Australia,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,3.187149,E,
+AUS,2001-11-01,2001-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,6.891423,E,
+AUS,2002-11-01,2002-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,2.922078,E,
+AUS,2003-11-01,2003-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,3.244705,E,
+AUS,2004-11-01,2004-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,1.789612,E,
+AUS,2005-11-01,2005-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,3.559177,E,
+AUS,2006-11-01,2006-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,9.026915,E,
+AUS,2007-11-01,2007-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,1.329282,E,
+AUS,2008-11-01,2008-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,4.872564,E,
+AUS,2009-11-01,2009-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,2.108649,E,
+AUS,2010-11-01,2010-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,2.170109,E,
+AUS,2011-11-01,2011-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,3.802672,E,
+AUS,2012-11-01,2012-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,-0.165017,E,
+AUS,2013-11-01,2013-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,0.528926,E,
+AUS,2014-11-01,2014-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,2.466294,E,
+AUS,2015-11-01,2015-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,0.320924,E,
+AUS,2016-11-01,2016-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,1.727447,E,
+AUS,2017-11-01,2017-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,-0.345912,E,
+AUS,2018-11-01,2018-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,1.546229,E,
+AUS,2019-11-01,2019-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,2.486016,E,
+AUS,2020-11-01,2020-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,2.637962,E,
+AUS,2021-11-01,2021-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,1.683900,E,
+AUS,2022-11-01,2022-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,9.151656,E,
+AUS,2023-11-01,2023-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,4.578121,E,
+AUS,2024-11-01,2024-11-30,10,'036,Australia,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,3.079664,E,
+AUS,2001-12-01,2001-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,7.566766,E,
+AUS,2002-12-01,2002-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,2.482759,E,
+AUS,2003-12-01,2003-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,3.364738,E,
+AUS,2004-12-01,2004-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,1.692708,E,
+AUS,2005-12-01,2005-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,3.713188,E,
+AUS,2006-12-01,2006-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,8.518519,E,
+AUS,2007-12-01,2007-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,1.137656,E,
+AUS,2008-12-01,2008-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,5.624297,E,
+AUS,2009-12-01,2009-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,1.916933,E,
+AUS,2010-12-01,2010-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,2.403344,E,
+AUS,2011-12-01,2011-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,2.551020,E,
+AUS,2012-12-01,2012-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,0.298507,E,
+AUS,2013-12-01,2013-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,1.091270,E,
+AUS,2014-12-01,2014-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,1.962709,E,
+AUS,2015-12-01,2015-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,0.384986,E,
+AUS,2016-12-01,2016-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,1.821668,E,
+AUS,2017-12-01,2017-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,-0.188324,E,
+AUS,2018-12-01,2018-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,1.509434,E,
+AUS,2019-12-01,2019-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,2.602230,E,
+AUS,2020-12-01,2020-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,2.264493,E,
+AUS,2021-12-01,2021-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,1.860053,E,
+AUS,2022-12-01,2022-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,9.217391,E,
+AUS,2023-12-01,2023-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,4.458599,E,
+AUS,2024-12-01,2024-12-31,10,'036,Australia,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,2.972561,E,
